@@ -1,0 +1,6 @@
+{
+    "app_name": "obj2file",
+    "author": "Zxb",
+    "main_module": "src/main/python/main.py",
+    "version": "0.0.0"
+}

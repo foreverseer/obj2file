@@ -1,0 +1,32 @@
+{
+  "window": {},
+  "data": {
+    "head": {
+      "type": "image",
+      "position": [0, 0, 3, 1]
+    },
+    "name": {
+      "type": "str",
+      "font": {
+        "textSize": 20
+      },
+      "position": [0, 0, 1, 0]
+    },
+    "age": {
+      "type": "int",
+      "font": {
+        "textSize": 20
+      },
+      "position": [0, 0, 2, 0]
+    },
+    "sex": {
+      "type": "str",
+      "replace_icon": {
+        "男": "man.png",
+        "女": "woman.png",
+        "@default": "error.png"
+      },
+      "position": [0, 0, 3, 1]
+    }
+  }
+}

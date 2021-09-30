@@ -1,0 +1,39 @@
+{
+  "window": {},
+  "data": {
+    "video": {
+      "type": "video",
+      "autoplay": true,
+      "position": [0, 0, 6, 10]
+    },
+    "name": {
+      "type": "str",
+      "font": {
+        "textSize": 20
+      },
+      "position": [0, 10, 2, 6]
+    },
+    "size": {
+      "type": "str",
+      "font": {
+        "textSize": 20
+      },
+      "position": [2, 10, 2, 6]
+    },
+    "len": {
+      "type": "str",
+      "font": {
+        "textSize": 20
+      },
+      "position": [4, 10, 2, 6]
+    },
+    "list_image": {
+      "type": "list_image",
+      "file_format": "preview_*",
+      "position": [6, 0, 3, 4],
+      "max_width": 16,
+      "max_height": 3,
+      "orientation": "horizontal"
+    }
+  }
+}
